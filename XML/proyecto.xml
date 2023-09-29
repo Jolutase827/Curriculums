@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE em SYSTEM "../XML/proyecto.dtd">
+<em>
+    <usuarios>
+        <root>
+            <usuario>
+                <nombre>root</nombre>
+                <contrasenya>1234</contrasenya>
+                <imagen>imagenUsuario.png</imagen>
+            </usuario>
+        </root>
+        <noroot>
+        
+            <empresas>
+            </empresas>
+        <usuariosnoroot>
+            <usuario>
+                <nombre>Jose Luis</nombre>
+                <correo>cau01111@gmail.com</correo>
+                <contrasenya>1234</contrasenya>
+                <imagen>https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/05/26/16851138382141.jpg</imagen>
+                <mas_datos>
+                </mas_datos>
+            </usuario>
+            <usuario>
+                <nombre>marta</nombre>
+                <correo>cau01111@gmail.com</correo>
+                <contrasenya>1234</contrasenya>
+                <imagen>imagenUsuario.png</imagen>
+                <mas_datos>
+                </mas_datos>
+            </usuario>
+            <usuario>
+                <nombre>marcela</nombre>
+                <correo>cau01111@gmail.com</correo>
+                <contrasenya>1234</contrasenya>
+                <imagen>imagenUsuario.png</imagen>
+                <mas_datos>
+                </mas_datos>
+            </usuario>
+        <usuario><nombre>joseLuisTarragas</nombre><contrasenya>1234</contrasenya><correo>elquesea@hhda.es</correo><imagen>imagenUsuario.php</imagen><mas_datos/></usuario><usuario><nombre>curriculum</nombre><contrasenya>1234</contrasenya><correo>c@fas.sa</correo><imagen>data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAJAAXAMBEQACEQEDEQH/xAAbAAADAQEBAQEAAAAAAAAAAAAEBQYHAgMBAP/EADkQAAIBAwIFAQYEBAUFAAAAAAECAwAEEQUhBhITMUFhIjJRcYGRBxSh0SMkweFCQ7Gy8BUzUnKC/8QAGwEAAgMBAQEAAAAAAAAAAAAABAUBAgMGAAf/xAAzEQACAgEDAgQEBAUFAAAAAAABAgADEQQSITFBBRNRYSIycbEUkaHBI0JigdEGFSQz4f/aAAwDAQACEQMRAD8AstPa3uOVVVd/gKzLADJlwpMM1aBobIiAYOKTanWgNgRvoQmQGmManpTXOqykylMnNMKLiawTKa3TJ5/w8CUenx3Nnp4S2mLEL3Y1cWZOZk1SquIPw muQaiZFl51l7geKl23fLM0rA aVGoWt2cT3SkhRknPapQNjmVs2DpPHSuKOH7O4QG gyxxkHIznyfFargdYPYSZexazpWracJLW5imjZe6HOPn8K14My5iGCPT4ZmEYXJOaqSJG0mEt0dzzbVMiAXkkQXKN teyJ7aYsaeVjmPm5agtiXRcieltIunCNriZUGd80IfjOIXtAEqY76xvbRlinR2A8Glms0YByOsmq0gzNLjT3u9auxbtgg4O1GaMgVBW6wh1dxvzFVzd3OkStDMSWHuk RRwrGIC1rA8y4/DoG/iM0i922qyVgSGtJEK/FUEabaaZGZI1vXIkljOGWNMEgepJUfLNRc xeJ6pd7czNV4GtZXBimvIxnPshWOKGF7dxCzpV7GemlaVdcO8V2Fvb3zzWl6/SbmTlYA9gR88VvW  C217Jp8fDzrdLJ3FaGs5lVfC4nvqUUVrCeoQu229XxxMO8lrSaO5uiivzcxwN6EYkNGKAFJXW2mQrCoZhnHxohTxzBSMHiYTxpq15c6iyvI3RA2UdqisACVsYkxXpWs3enzdS2lZM9xnvVnrVxhhKAlek2Hghvzll fl3lkG7fGlmxlvIHSMxq0FIWL KdJl1K jEEXYEFjTNOkWlwxyJZfh5pM l2fSnA97IIq09Ev4vq095bQXsvTsDblomUf5mfayfkEoW8kEQrTqpBzM/j0uyGmRxWmtywXEL5ch2DhdsZHgAmsQxzuIhOwEbQZU2Vu9ndaaequpzwSq2c4zk7ZPp3 1TW LBKvUGXBM1KC6jdN2HammRFmDEXEWjy6xEUgkKeoqrc9JK4ByZEXuh6joY6uC3Ic5FCeUephy3KeBCrfiS7MQ54lyPnQdl7K2BGSaFWUHMz27065v1Z1iLODggUclgiR62zF//AEOaF1a5iaOPO RVw4mexh1E0jRL14bOG2soyQQAANqHNo3cCbDTbhkmUdzcnTFS4uYyucZzuKnzCOTLrQvRYwn4lWG06kS82Bn2Kt IU8Tx0rCSHHmsQ65oNsTKA0E Wj84YY/Taq2nKieqXDGR0DWMkEqifpyYxkSsC3z NYMWHaFfD6y14Hteppr3KoDysURiNx5z ta6Vepg2pcjAj3 aGySkb0bsg 8So0m5it7cdZxnG5NTMzzPuqvb3lo3KA2RVHbjE0qUg5mfyaeyuQEx86Wmskx6mowuMwqO0g/NMYFGx8eagmYhRjmAcaaXPLpcjIgXC57d6vXuBzMrNpUic/hjaPMEluuy9vWtV2l5gwK1zQuItPtrmwKMBjG3pRDgFYPUxDyS/l4LI/nCEQdj5b5DzQCgKcxlaSwxmQfEc9oyF7eMrzt5PgVJfecTNawoiGx/Kfmld4fb/Q/3qWJxKhVzNU4ScxcOOkSAyO5YDydgNvtWmmsABBmWpqJIIhWmTSTMyzKVKnBBG4rU3EGUFXEMNq92/RDkL6Ggmte2zapkFQsb2OlSWihC7OvqaPrQgcyrPO7qzxL7g7VpsEqLCJKcI/zCrJPnmJ9oHxS7bzGJfiPOMCh0iRYgCcYFE4GIICczx0 ztYtGiktnEbBMhh2qGqCjImtV244bpJLUuMJVk6fWJU7bKMEfGhzY54zNvLrB4ECuLsX6CUEKB25dqqWJlwAInuopZm5JVVk9F3qJYjM 2/C79aGdeZoecZRSObH37/2q5JIlNoBl5o ourCz/LLFDGMbr7XavK2OMSGUdYTBq1oLspdLhgcA1OVJw0oyHbxLK10y0ZY7iH/ABqGB lF101rysXs7ZwZ3qFylkoZ8ACticCQBmdJOs6LIo2Ir2TKmZxwZcwXcj9Q8q7YGdz60OlPrCGv9JdXmk282nvvkFDvmtNoEyNhma6kTp/D92Y7g8ikxqObvnbH2zQr5yeYYjDaOJnZvsvlyPr4rPZL74/0xgYQQ30rM8GbrzDnJwOXvXpeEC8e1ktWZVAyQfWrjiVxmUomV0Dkqdu4q5wZlJvUtSjgv VsFhvWJlxNA4c4ngTRo s6jkYgZPjv/WjNPcu3BmD6J7MusGueIrbV778vC4blOTijOCIubKnEf2lzFDAqHxUyAMzG M9HveGrRLm2nkQjA5gcVmDPSk4X4tvdQ0Dp3B/jKpDMT3rC64V9ZR3Akdq2ovdwR2fZYgc rE5J faghnJY94x0qny9x7yUu8NIIYd2Y4yaIX1nnAzgRlZyS2kC5LFFPKGPmqMAxmqEqI1ttTjmQYbesmUqcQhXB6T01K9xDCRgqG3Oe1SOZ4nEPs9fVYAjOo9Sagk9JHHWIJZV1fXpWD4EahNuxO f elWIKoM95mMM5lRCJbOwgSUY6gJ/XFZqveEDUlK9gnfDbdLW2P/AJCmlDbhEtw LM0YIJAGzWxEyBxFHEjW t2/QmTmXO R8KDezjiE11c5Mk9Uhlsrcx2XsDG5xgAUMyhuWln06uZE31xGjOA3YYJPn1ryqTzCAQo2iOtX4el0vhzTJZY W5mfrTZHu84wFPyHL9c1au1bEbHYxfXaTqyO2INNEI4EiXIAHwzmsgcnMaAdoEltCGzjlPwJ2qxYmSFGYz6mnvadGS2TJ/xKMVnnE0wDPBNGt UzCQmPGyDO1eNhkbBOW0d HtRtFkLE3VrHc742LZyv0NW80WD6cQegjn6zSOHhDe8kdwqsP8vm370Jq9 wbZlrMhQRF2r2Uek6/HLEvLHL3 ANGeGXEqVbqICGLcGVFveKYV VNd4k7YkNzIT7v61qdBmK/wDeBJ/iXVBzCzGzYy/17Uu1SCttgjvw 03V ae/STGkWAl4hteZOqiSCWRPHKu D9cD61FKG07BJ1dq01l2mha1K tQSpOMZQ4x4Pj9aJq8O8oELFCeIVqRIu8tbhlDIpOBSsETpsGKecMxWfwfNaEekgH1hrNH0AVG2fhWXeaQmzuUfktokYNK4UnFeVNzAesiywIhY9hHH4lL1I9Oul2eItF8wcEf7T96YX6L8OT6GJ/DtYt QOvWGcEXLm0E7jIjP2oaure2yHaqwJVvMeazKmpOnsDCHO/iiafD2rbMT/jas5zE91rq2UvQx7orYoV4M2W5XGRDeYIru3uqCT8hTxiAMmcaqlmCjqZnl3dC4u3mf3mYk5rlLGLsXPefRqq1qrWsdAMSh4XjCdWQrh5ADv3C BTjw nYm49T9py/jOp8y0Kp4X7ykg2Jz5pgBEpaSE94I5zD1B7JK5B2Ncm9W1iJ9FptFqBx3i6 hEd11GVXD7g4qB0xLkcwtbYydKRIlEZG5Hg1XEuIbbIIp0kJxyuuB9a9X84 sraAa2B9DG/G/JNaRsmOWOVW/wBR/Wn uy1GT2M5jwsivWBR/Mv/ALBOFpVt4GiVdnIHalWmbF6/UR7r03aWwex 0pFA32rqMT53uia 06K4uDIwGTWLVqTkwyrUsi4E a3ci302bJ3kPIPr3/TNZa zZQfU8TbwajztWvovP P1k3w9oyaheNPcAtbRNup7O3w XxpZodN5rbm UR94zr/w6bKz8TfoPX/EeWof/q92OyjsKdY IzmGYeSvrO9e1M6bpplQZkdgifM5/as9TYa6yR1k6SoW24Y4HWQs0S3KmSOTlZe PH0pNgGNKtRZQcCdx35jRIbjIK9mzkEVg1B6rHVPiasPjEaRXw6YUTxEf 4GKxNbekOGroPO8fnCLCQXOsWUYYSIJMsAdifH64onSVbbVawcZizxPxFDS1dJyT3lHxVCDpdwI0bmRecgj4EE041KbqHA v5RNo7wurqP9vz4ivh2QyQxnwGAJ tItOM3oPcTqta2NJYf6T9pUgmusxPm2YDctyS45qyY4MLqQsuYk4hd5bqC2UBgwzj5k0o8VY71HtOm/wBN1r5Dv3Jx gj 1t47OBLeNQoTb5nyabadFSpQvTE5jW2WWah2s65i21OdXugPIqw YyH/AOpYr41Yi0s1Hmc/7T 9A IH GIy8GXdqcHvI FpI5lkj37KwzjI B/oaXwghWXBhp6N0pXlKyIRzqRjHr/evTA76j6gwZbdUIIXbOO52NTmaGyGQzPEn8M9Nl3HL8fnUTE9czWdXurO9to36kZMkQ5seo3oyh234bpC9RSrVbk aRfDSNDafxTjlkwfXGaX6YBdQuexjzxEl9C O4 8fi8iVSxfYV0PnLOIGisJxkRZd3trLLzCU9sdqychjnEZU6S6tdsX68zNqCxwqpnKDpoSRk/M1ztmobUfxHnZUaCvRDyae/PMc6TfPdWo6qqJozySrjJBFe/G6ipQqNxJHg2i1Dmy1Pi7xhcwfl7e3uY1CNMp5mCDOQf2qbNVeEV93WWp8M0Rsevyx8MmuMTJJpccr8zCKUNv2FZ1XPYSrnMz8Q0dOnFdlS4wwz9DJOJAd9uZdjnsfQ0WpyBOV1amu519zO7qHpRfmoMgx 8hOdvIq0yrs3Hy37958trmOfJUZ5tx9t69K2VlOPSdSYAJ NQZVZcIqpYRySHASIMfkBTYYCAmZKC1m1epM60i3LaW8in2WbLA KTaY7rw3vOt167NEU9AP0xP0sWYXGPFOwJyaN8YiWO0mlBaNCRnFWPEdiPeINMleQfliBcWz5iZh3HwP6VyvFNjIek64Z1FS2L1nrpiF4us9sbeR/8AuJ33G2aysPOAeIRUvG4jBlRc2ol4fjLr7Uacy0xaoNpB7CKEuK68gdCcSQ1m1/M6PdRkjZOYZPkb/wBKXUtiwGHeJVmzSOB1xn8uZniPgnx2P/PrmmaDAxOO8SXddvH8wBjCAxyRE8ofA7Kd6vFTo6HniT9uzQXUsaey0b8yeQPT7VJjFwHUMe8bO5lRSuxK5xVYIBtMur1wdGlVAB/LEA//ADTR aSPb9plpht1KH0YfeJuHNYktJWsIeWcTHncO3KU5t/329KTVKxsXb7TsdW9a0P5nof16R80kpjcbdqe5nEqAGEX2Fw0UTqT/jPj5V5hHq9JS6yzjUZOVW3CnH0rmdaMXGdZ4cc6df7wKNpOU ME aEMPGZWFWbRcFgM248elPQP Nj2nMbsa3P9X7yG1gldHvCScmJlH12pNQM2LHXiLbNJYfYzO7kclw6A7nOB5 I/3H7U0HDGcixFmlqsP8pwf2/QfrHEUtsYbMQJyyqn8Xc 0c/P6 O9eXrJ8RZTph8PXpx09pNXQZdWul91ufI9RgVcwZMGlTDbaU9WNdsE9jWbjieqUbsEZlzxVoup3XBsV9pssnPEVZ4E7yLjx8SO P64pg/x1gewk6ZPJvZz6kD25kPwRw3qHEWrRtYyGCKBw8t4wyExvgfFvT77VReOFh74bhuczXb zht7BZELM3MVYnbNFK2TEtunCIGHrJHqojOMH3vjWpIjFPlEtNciK3gx5jGN65nXj Ln2nU FHNGPeLgnKpzgb TQRjMSztlR7BAG2MQGw9K6JBmoD2nJWti9m9/3mccUzw2 j3AkfkHOoJYgD3v7Ul06fxY38ZYnRMF6nH3mfCZb64kNp/EEYUtnYHv 9MiO857SUOdO9Td8Y9vX7Rlptq0sqqhjQsfLH9qy80DtJbwaxx84/KL IoWt9VKyAK3IrZG/psfpWisGGRBzpX0w8tzn6TjTfbuck4XkP1qGxMzuVeB1/zNv0NVbhyzUMctErj7Cj6/lH0m9gHxD3P3h38C2RngiVVjDEqihRnue1SB2nmcDLekAvT19LYKgAK84rRR8UFucNTx9ZCTRHqvg43onE2rOUEtNeDt0ZNgCWX9a53XDoZ0vhRxuX6GK0zg7nHpS7tHMsISVhhXwEQjNPkbCgfSctYgLsfcyP1axtriae2uoI5oucnkdQw70msLV2HE6KoLbSu4ZGBPGbQ7KHha9axsoICkqsTGgBO2Nz9aM07F6iWOYs1daVXqEGOJGWU9vYSr1E5iW39aoRzmXQ4g rQPrGu2ltZI0klx7EQz6 T6b7/CtaecgRZ4gjMwK ko9L/Dq6i52vb2GLAbCx5c5H2H tFCgnqYrCvuBPb9pcaOelY2MSIWWKMoWxnttv8AaiwAoxKqxchj3zDlkkkeaMDAY flUTQc5EXvbSnTHYye5GV5QKsDzMTXiqQV3tcP370RL0HNYn//2Q==</imagen><mas_datos/></usuario></usuariosnoroot></noroot>
+    </usuarios>
+    <curriculums>
+        <cv id="0">
+            <titulo/>
+            <formacion>
+                <titulacion>
+                    <nombre/>
+                    <fecha/>
+                    <centro/>
+                </titulacion>
+                <idioma>
+                    <nombre/>
+                    <nivel/>
+                    <certificado/>
+                </idioma>
+            </formacion>
+            <experiencia>
+                <item>
+                    <titulo/>
+                    <sector/>
+                    <descripcion/>
+                    <fecha_inicio/>
+                    <fecha_fin/>
+                </item>
+            </experiencia>
+        </cv>
+    <cv id="1" cuenta="Jose Luis"><titulo>Trabajador KFC</titulo><formacion><titulacion><nombre>Desarrollo de aplicaciones</nombre><fecha>2023-05-16</fecha><centro>IES la vereda</centro></titulacion><idioma><nombre>Ingles</nombre><nivel>Avanzado</nivel><certificado>b2</certificado></idioma></formacion><experiencia><item><titulo>Burguer King</titulo><sector>Hosteleria</sector><descripcion>Repartidor</descripcion><fecha_inicio>2023-05-02</fecha_inicio><fecha_fin>2023-05-31</fecha_fin></item></experiencia></cv><cv id="2" cuenta="Jose Luis"><titulo/><formacion/><experiencia/></cv><cv id="3" cuenta="Jose Luis"><titulo>Jeremiah</titulo><formacion><titulacion><nombre>Millonario</nombre><fecha>2023-06-01</fecha><centro>UNI</centro></titulacion><idioma><nombre>iNGLES</nombre><nivel>BASICO</nivel><certificado>-2</certificado></idioma></formacion><experiencia><item><titulo>eL PUTO AMO</titulo><sector>LA CALLE</sector><descripcion>FOLLABA MUCHO</descripcion><fecha_inicio>2023-06-07</fecha_inicio><fecha_fin>2023-06-30</fecha_fin></item></experiencia></cv><cv id="4" cuenta="Ximez"><titulo>Ximez</titulo><formacion><titulacion><nombre>Laximezabsurda</nombre><fecha>2023-06-01</fecha><centro>ElPutoAmo</centro></titulacion><idioma><nombre>Binglis</nombre><nivel>Alto</nivel><certificado>L polla</certificado></idioma></formacion><experiencia><item><titulo>asfasfssdf</titulo><sector>adasdsa</sector><descripcion>adassdad</descripcion><fecha_inicio>2023-06-01</fecha_inicio><fecha_fin>2023-06-24</fecha_fin></item></experiencia></cv><cv id="5" cuenta="curriculum"><titulo>asdsad</titulo><formacion><titulacion><nombre>adsad</nombre><fecha>2023-09-06</fecha><centro>adsad</centro></titulacion><idioma><nombre>adasdssa</nombre><nivel>adaasd</nivel><certificado>adasd</certificado></idioma></formacion><experiencia><item><titulo>Partgeads</titulo><sector>dasd</sector><descripcion>dad</descripcion><fecha_inicio>2023-09-19</fecha_inicio><fecha_fin>2023-09-16</fecha_fin></item></experiencia></cv></curriculums>
+</em>
